@@ -10,5 +10,5 @@ Processor Development:
 
 Datapath Implementation:
 - Built a fully functional datapath that integrates:
-- Program Counter (PC): Fetches instructions sequentially.
+-- Program Counter (PC): Fetches instructions sequentially.
 - 
